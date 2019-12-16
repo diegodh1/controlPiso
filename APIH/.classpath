@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/libreriasHERCULES/cors-filter-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/libreriasHERCULES/java-property-utils-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/jackson-annotations-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/javax.activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/javax.mail-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/ooxml-schemas-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/smtp-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/curaduria-estable/LIBRERIAS-20190614T225747Z-001/LIBRERIAS/sqljdbc4-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Downloads/jar_files/tomcat-util-8.0.32.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_231">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/USUARIO/Documents/libreriasHERCULES/slf4j-api-1.6.3.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
